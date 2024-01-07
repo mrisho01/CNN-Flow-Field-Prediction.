@@ -17,7 +17,7 @@ Highly accurate predictions are demonstrated through contour plots, showcasing t
 ## Usage
 Explore the code in the Jupyter Notebook provided in this repository.
 
-## Final Year Project
+## Report
 View my final year project report [here](https://drive.google.com/file/d/1jb7TK0Pz_Xzu_A49guwqAGw0pSS6qmmT/view?usp=sharing).
 
 ## GitHub Repository
