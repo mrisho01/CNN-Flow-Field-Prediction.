@@ -21,5 +21,5 @@ Explore the code in the Jupyter Notebook provided in this repository.
 View my final year project report [here](https://drive.google.com/file/d/1jb7TK0Pz_Xzu_A49guwqAGw0pSS6qmmT/view?usp=sharing).
 
 ## GitHub Repository
-Explore the project: [Aerofoil Flow Field Prediction Repository](#insert-your-github-link-here)
+Explore the project: [Aerofoil Flow Field Prediction Repository](https://github.com/mrisho01/CNN-Flow-Field-Prediction..git)
 
