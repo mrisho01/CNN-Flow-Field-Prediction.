@@ -18,7 +18,7 @@ Highly accurate predictions are demonstrated through contour plots, showcasing t
 Explore the code in the Jupyter Notebook provided in this repository.
 
 ## Final Year Project
-View my final year project report [here](#insert-link-to-pdf).
+View my final year project report [here](https://drive.google.com/file/d/1jb7TK0Pz_Xzu_A49guwqAGw0pSS6qmmT/view?usp=sharing).
 
 ## GitHub Repository
 Explore the project: [Aerofoil Flow Field Prediction Repository](#insert-your-github-link-here)
