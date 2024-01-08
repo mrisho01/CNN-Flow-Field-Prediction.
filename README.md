@@ -5,6 +5,14 @@ Predict aerofoil flow fields using Convolutional Neural Networks (CNNs) based on
 ## Overview
 This project enhances accuracy in flow field reconstruction, providing an efficient method for aerodynamic analysis.
 
+## Technologies Used
+
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+
 ## Data
 Velocity vectors from PIV experiments are transformed into contour plots, offering a visual representation of flow patterns.
 
