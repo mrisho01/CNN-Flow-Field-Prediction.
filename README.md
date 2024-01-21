@@ -1,6 +1,6 @@
 # Aerofoil Flow Field Prediction with CNN
 
-Predict aerofoil flow fields using Convolutional Neural Networks (CNNs) based on Particle Image Velocimetry (PIV) velocity data.
+Predicting aerofoil flow fields using Convolutional Neural Networks (CNNs) based on Particle Image Velocimetry (PIV) velocity data.
 
 ## Overview
 This project enhances accuracy in flow field reconstruction, providing an efficient method for aerodynamic analysis.
